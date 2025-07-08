@@ -49,6 +49,19 @@ I am a second-year computer engineering student at The Ohio State University, pa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TejasNaik24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasNaik24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📬 Get in Touch
+
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/tejas-naik2028)
+&nbsp;
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:naik.tejas11@gmail.com)
+
+
+
+
+
+
