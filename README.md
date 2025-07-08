@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tejas Naik</h1>
 
 
-# 💫 About Me:
+# About Me:
 I’m a second-year Computer Engineering student at The Ohio State University with a strong interest in artificial intelligence, machine learning, and full-stack development. I'm passionate about building smart, impactful applications and continuously expanding my skills across the tech stack.
 
 ## Check out my [coding portfolio](https://tejasnaik.net)!
@@ -49,7 +49,7 @@ I’m a second-year Computer Engineering student at The Ohio State University wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TejasNaik24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TejasNaik24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
@@ -57,7 +57,7 @@ I’m a second-year Computer Engineering student at The Ohio State University wi
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/tejas-naik2028)
 &nbsp;
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:naik.tejas11@gmail.com)
