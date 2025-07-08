@@ -55,9 +55,9 @@ I am a second-year computer engineering student at The Ohio State University, pa
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TejasNaik24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
 
+---
+
 ## 📬 Get in Touch
-
-
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/tejas-naik2028)
 &nbsp;
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:naik.tejas11@gmail.com)
