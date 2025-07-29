@@ -4,7 +4,8 @@
 # About Me:
 I’m a second-year Computer Engineering student at The Ohio State University with a strong interest in artificial intelligence, machine learning, and full-stack development. I'm passionate about building smart, impactful applications and continuously expanding my skills across the tech stack.
 
-## Check out my [coding portfolio](https://tejasnaik.net)!
+## Check out my <a href="https://tejasnaik.net" target="_blank">Coding Portfolio</a>!
+
 
 ## Programing Languages
 <div align="left">
