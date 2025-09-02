@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tejas Naik</h1>
 
 
-# About Me:
+# About Me
 I’m a second-year Computer Engineering student at The Ohio State University with a strong focus on artificial intelligence, machine learning, and deep learning. I enjoy building intelligent systems, experimenting with neural networks, and applying data-driven approaches to solve meaningful problems. Beyond coursework, I’m actively expanding my skills in AI/ML/DL through projects, research, and continuous learning to stay on the edge of innovation in the field.
 
 ## Check out my [Coding Portfolio](https://tejasnaik.net)!
@@ -55,7 +55,7 @@ I’m a second-year Computer Engineering student at The Ohio State University wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
 </p>
 
-## GitHub Stats:
+## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TejasNaik24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TejasNaik24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages"/>
