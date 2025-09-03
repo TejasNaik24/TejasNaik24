@@ -64,12 +64,12 @@ I’m a second-year Computer Engineering student at The Ohio State University wi
 ---
 
 ## Get in Touch
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/tejas-naik2028)
-&nbsp;
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:naik.tejas11@gmail.com)
 
-
-
+<p>
+<a href="https://linkedin.com/in/tejas-naik2028"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50"/></a>
+<img width="5" />
+<a href="mailto:naik.tejas11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="60"/></a>
+</p>
 
 
 
