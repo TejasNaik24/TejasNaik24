@@ -4,7 +4,7 @@
 # About Me
 I’m a second-year Computer Engineering student at The Ohio State University with a strong focus on artificial intelligence, machine learning, and deep learning. I enjoy building intelligent systems, experimenting with neural networks, and applying data-driven approaches to solve meaningful problems. Beyond coursework, I’m actively expanding my skills in AI/ML/DL through projects, research, and continuous learning to stay on the edge of innovation in the field.
 
-## Check out my <a href="https://tejasnaik.net" target="_blank">Coding Portfolio</a>!
+## Check out my [Coding Portfolio](https://tejasnaik.net)!
 
 ## Programing Languages
 <p>
@@ -68,7 +68,7 @@ I’m a second-year Computer Engineering student at The Ohio State University wi
 ## Get in Touch
 
 <p>
-<a href="https://linkedin.com/in/tejas-naik2028" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50"/></a>
+<a href="https://linkedin.com/in/tejas-naik2028"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50"/></a>
 <img width="5" />
 <a href="mailto:naik.tejas11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="60"/></a>
 </p>
