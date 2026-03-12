@@ -4,9 +4,11 @@
 # About Me
 I’m a second-year Computer Engineering student at The Ohio State University with a strong focus on artificial intelligence, machine learning, and deep learning. I enjoy building intelligent systems, experimenting with neural networks, and applying data-driven approaches to solve meaningful problems. Beyond coursework, I’m actively expanding my skills in AI/ML/DL through projects, research, and continuous learning to stay on the edge of innovation in the field.
 
-## Check out my [Portfolio](https://tejasnaik.net)
+### Check out my [Portfolio](https://tejasnaik.net)
 
-## Check out my [Google Scholar Portfolio](https://scholar.google.com/citations?hl=en&user=M_OhGPAAAAAJ)
+### Check out my [Google Scholar Portfolio](https://scholar.google.com/citations?hl=en&user=M_OhGPAAAAAJ)
+
+---
 
 ## Programing Languages
 <p>
